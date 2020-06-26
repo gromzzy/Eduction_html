@@ -1,0 +1,29 @@
+header {
+	width: 1280px;
+	height: 323px;
+	background-color: #445161;
+	margin: 0 auto;
+}
+
+h1 {
+	padding-top: 30px;
+	padding-left: 50px;
+width: 367px;
+height: 44px;
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+color: #ffffff;
+font-family: "Arial MT";
+font-size: 60px;
+font-weight: 400;
+
+}
+.header_list_block {
+	width: 458px;
+	height: 129px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.header_list {
+	list-style-image: url(../img/check_icon.png);
+
+}
